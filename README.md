@@ -1,8 +1,6 @@
 React router yapısına giriş ve genel bir bakış.
 Repoyu klonladıktan sonra npm run start diyerek önizleme yapabilirsiniz.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
